@@ -5,13 +5,13 @@ import Image from "next/image";
 
 const leftServices = [
   {
-    icon: "/services/Nailart.png",
+    icon: "/services/nailart.jpg",
     iconAlt: "Nail art service icon",
     title: "Nail Art",
     desc: "Creative and intricate nail designs tailored to your personal style, from minimalist to bold statements.",
   },
   {
-    icon: "/services/Nailrepair.png",
+    icon: "/services/Nailrepair.jpg",
     iconAlt: "Nail repair service icon",
     title: "Nail Repair",
     desc: "Expert repair for broken, chipped, or damaged nails, restoring strength and beauty to your natural nails.",
@@ -23,7 +23,7 @@ const leftServices = [
     desc: "Long-lasting gel polish manicure with a high-shine finish that stays chip-free for weeks.",
   },
   {
-    icon: "/services/Removal.png",
+    icon: "/services/Removal.jpg",
     iconAlt: "Removal services icon",
     title: "Removal Services",
     desc: "Safe and gentle removal of gel, acrylic, and nail extensions without damaging your natural nails.",
@@ -32,7 +32,7 @@ const leftServices = [
 
 const rightServices = [
   {
-    icon: "/services/Classicmanicure.png",
+    icon: "/services/Classicmanicure.jpg",
     iconAlt: "Classic manicure service icon",
     title: "Classic Manicure",
     desc: "Complete nail care including shaping, cuticle treatment, and your choice of premium polish.",
@@ -44,13 +44,13 @@ const rightServices = [
     desc: "Timeless and elegant French manicure with a clean white tip and natural base for a polished look.",
   },
   {
-    icon: "/services/Polishchange.png",
+    icon: "/services/Polishchange.jpg",
     iconAlt: "Polish change service icon",
     title: "Polish Change",
     desc: "Quick and fresh polish change in your favourite colour, keeping your nails looking vibrant and neat.",
   },
   {
-    icon: "/services/Feettoes.png",
+    icon: "/services/Feet.jpg",
     iconAlt: "Feet and toes treatment icon",
     title: "Feet and Toes",
     desc: "Rejuvenating foot treatments including scrubs, massage, and polish for happy, healthy feet.",
@@ -180,7 +180,7 @@ export default function SpecialServices({
 
                 {/* Product image */}
                 <Image
-                  src="/services/bottle product.jpg"
+                  src="/services/bottleproduct.jpg"
                   alt="Nail Voyage Saloon signature nail polish bottle product"
                   width={140}
                   height={200}

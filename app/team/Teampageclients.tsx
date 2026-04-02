@@ -36,7 +36,7 @@ const team = [
     name: "Aisha Nakato",
     role: "Senior Nail Technician",
     subtitle: "Lead Artist",
-    image: "/team/Aisha.png",
+    image: "/team/aisha.png",
     // SEO: descriptive alt text — helps Google Image Search
     alt: "Aisha Nakato — Senior Nail Technician at Nail Voyage Uganda, Kampala",
     experience: "5 years",
