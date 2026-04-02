@@ -50,7 +50,7 @@ const rightServices = [
     desc: "Quick and fresh polish change in your favourite colour, keeping your nails looking vibrant and neat.",
   },
   {
-    icon: "/services/Feet.jpg",
+    icon: "/services/feet.jpg",
     iconAlt: "Feet and toes treatment icon",
     title: "Feet and Toes",
     desc: "Rejuvenating foot treatments including scrubs, massage, and polish for happy, healthy feet.",
